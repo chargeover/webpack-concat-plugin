@@ -1,6 +1,6 @@
 {
-  "name": "@mcler/webpack-concat-plugin",
-  "version": "4.1.4",
+  "name": "@chargeover/webpack-concat-plugin",
+  "version": "1.0.2",
   "author": "mcler",
   "description": "Webpack file concatenation.",
   "license": "ISC",
@@ -33,7 +33,7 @@
     "webpack-sources": "^3.2.1"
   },
   "engines": {
-    "node": ">= 14"
+    "node": ">= 10"
   },
   "homepage": "https://github.com/mcler/webpack-concat-plugin",
   "repository": {

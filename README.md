@@ -1,6 +1,6 @@
-# @mcler/webpack-concat-plugin
+# @chargeover/webpack-concat-plugin
 
-[![npm package](https://img.shields.io/npm/v/@mcler/webpack-concat-plugin.svg)](https://www.npmjs.org/package/@mcler/webpack-concat-plugin)
+[![npm package](https://img.shields.io/npm/v/@chargeover/webpack-concat-plugin.svg)](https://www.npmjs.org/package/@chargeover/webpack-concat-plugin)
 
 A plugin to concat static JavaScript files and (optionally) inject into HTML without Webpack’ `JSONP` code wrapper. A perfect solution for bundling legacy code.
 
@@ -14,7 +14,7 @@ It delivers:
 
 > Only Webpack 5 is supported
 
-> Forked from [hxlniada’s plugin](https://github.com/hxlniada/webpack-concat-plugin) – supports Webpack 4
+> Forked from [mcler’s forked plugin](https://github.com/mcler/webpack-concat-plugin) – supports Webpack 4
 
 ## Install
 
