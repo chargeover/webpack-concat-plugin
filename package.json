@@ -1,7 +1,7 @@
 {
   "name": "@chargeover/webpack-concat-plugin",
-  "version": "1.0.2",
-  "author": "mcler",
+  "version": "1.1.0",
+  "author": "celtech",
   "description": "Webpack file concatenation.",
   "license": "ISC",
   "main": "./release.js",
@@ -35,13 +35,13 @@
   "engines": {
     "node": ">= 10"
   },
-  "homepage": "https://github.com/mcler/webpack-concat-plugin",
+  "homepage": "https://github.com/chargeover/webpack-concat-plugin",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mcler/webpack-concat-plugin.git"
+    "url": "git+https://github.com/chargeover/webpack-concat-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/mcler/webpack-concat-plugin/issues"
+    "url": "https://github.com/chargeover/webpack-concat-plugin/issues"
   },
   "jest": {
     "testEnvironment": "node"

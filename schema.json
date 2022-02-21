@@ -27,7 +27,10 @@
             "type": "object"
         },
         "publicPath": {
-            "type": "string"
+            "anyOf": [
+                {"type": "boolean"},
+                {"type": "string"}
+            ]
         },
         "outputPath": {
             "anyOf": [
